@@ -5,7 +5,7 @@ import java .util.Arrays;
 public class Floor {
     public static void main(String[]args){
         int arr[] = {2,3,4,5,6,7,9,10};
-        int target =8 ;
+        int target = 8; 
         int ans = Floor(arr, target);
 
         System.out.println(ans);

@@ -1,3 +1,4 @@
+// In this program first i have to show that the given element is shorted or not and the find the element.
 package BinarySearch;
 
 public class OrderAgnosticBs {

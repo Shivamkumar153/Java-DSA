@@ -1,3 +1,7 @@
+//Leetcode question no = 33 ; Search in Rotation Sortrd Arrays.
+package BinarySearch;
+import java.util.Arrays;
+
 import java.util.Arrays;
 public class PeakElement {
     public static void main(String[]args){
@@ -58,10 +62,3 @@ public class PeakElement {
         return -1;
     }
 }
-            
-
-            
-        
-
-    
-
